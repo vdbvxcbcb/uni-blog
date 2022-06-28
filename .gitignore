@@ -1,0 +1,9 @@
+unpackage/
+node_modules/
+uni_modules/
+docs/
+api/docs
+.DS_Store
+.idea/
+.vscode/
+.hbuilderx/
